@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "f1aa",
+      "name": "falak",
+      "email": "falakvantmuri@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ecef",
+      "name": "Falak",
+      "email": "falakvantmuri@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "bb00",
+      "name": "Falak",
+      "email": "falakvantmuri@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5acc",
+      "name": "Falak",
+      "email": "falakvantmuri@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "fa31",
+      "name": "Falak",
+      "email": "falakvantmuri@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "76df",
+      "name": "Falak",
+      "email": "falakvantmuri@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "48bb",
+      "name": "rahul",
+      "email": "rahul1@gmail.com",
+      "password": "123"
+    }
+  ],
+  "todos": [
+    {
+      "id": "b1c5",
+      "text": "study",
+      "done": false
+    }
+  ]
+}
